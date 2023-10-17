@@ -1,0 +1,105 @@
+# Lendo4 Response Service
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+  - [API Endpoints](#api-endpoints)
+- [Development](#development)
+  - [Building](#building)
+  - [Testing](#testing)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+---
+
+## Overview
+
+`lendo4-response-service` is a RESTful service written in Golang, designed to handle and manage responses for various applications. This service provides an API for storing, retrieving, and manipulating response data efficiently.
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Golang 1.17 or higher
+- Docker (optional)
+- Git
+
+### Installation
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/your-username/lendo4-response-service.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd lendo4-response-service
+    ```
+
+3. Download dependencies:
+
+    ```bash
+    go mod download
+    ```
+
+4. Run the service:
+
+    ```bash
+    go run main.go
+    ```
+
+    OR with Docker:
+
+    ```bash
+    docker-compose up --build
+    ```
+
+---
+
+## Usage
+
+The service runs on port `8080` by default.
+
+### API Endpoints
+
+#### POST /responses
+
+Create a new response.
+
+**Request Body**
+
+```json
+{
+  "app": "AppName",
+  "content": "Some content",
+  "timestamp": "2023-10-17T09:00:00Z"
+}
+
+
+Example Curl Command
+
+curl -X POST http://localhost:8080/responses -d '{"app": "AppName", "content": "Some content", "timestamp": "2023-10-17T09:00:00Z"}'
+GET /responses/:id
+Retrieve a response by its ID.
+
+Example Curl Command
+
+curl -X GET http://localhost:8080/responses/1
+Development
+Building
+To build the project, run:
+
+go build -o lendo4-response-service
+Testing
+To execute the unit tests, run:
+
+go test ./...

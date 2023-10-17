@@ -1,0 +1,57 @@
+# Weekly Calendar - October 2023
+
+## Monday, October 23
+
+### Morning
+- 09:00 AM - 10:00 AM: **Team Stand-up Meeting**
+- 10:30 AM - 11:00 AM: **One-on-One with Alice**
+
+### Afternoon
+- 01:00 PM - 01:30 PM: **Project Update with Client**
+- 03:00 PM - 03:45 PM: **Code Review Session**
+
+---
+
+## Tuesday, October 24
+
+### Morning
+- 09:30 AM - 10:15 AM: **Marketing Team Sync**
+- 11:00 AM - 12:00 PM: **Product Roadmap Review**
+
+### Afternoon
+- 02:00 PM - 03:00 PM: **Financial Overview Meeting**
+
+---
+
+## Wednesday, October 25
+
+### Morning
+- 08:30 AM - 09:00 AM: **Coffee Chat with Håkan**
+- 10:00 AM - 11:00 AM: **Monthly Sales Meeting**
+
+### Afternoon
+- 02:30 PM - 03:15 PM: **UI/UX Design Review**
+- 04:00 PM - 04:45 PM: **Quarterly Strategy Meeting**
+
+---
+
+## Thursday, October 26
+
+### Morning
+- 09:45 AM - 10:30 AM: **Client Feedback Session**
+- 11:30 AM - 12:15 PM: **Engineering Team Meeting**
+
+### Afternoon
+- 01:15 PM - 02:00 PM: **HR Policy Update**
+- 03:00 PM - 03:45 PM: **Training: Time Management Skills**
+
+---
+
+## Friday, October 27
+
+### Morning
+- 09:00 AM - 10:00 AM: **Team Stand-up Meeting**
+- 10:30 AM - 11:30 AM: **Demo of New Features**
+
+### Afternoon
+- 01:00 PM - 02:00 PM: **Wrap-Up Meeting for the Week**
